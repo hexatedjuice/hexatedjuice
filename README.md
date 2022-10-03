@@ -2,7 +2,7 @@ hi, i’m @hexatedjuice
 
 Currently pursing my BS in Computer Science at The University of Texas at Austin and a member of the Turing Honors program. Highly passionate and motivated individual who wants to pursue a career in cyberseurity or information security in general. 
 
-checkout my personal [website](cs.utexas.edu/~juice/)!
+checkout my personal [website](https://cs.utexas.edu/~juice/)!
 
 contact me at hexxated@gmail.com or joycelai@utexas.edu
 
