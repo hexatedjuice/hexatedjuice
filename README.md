@@ -4,5 +4,5 @@ Currently pursing my BS in Computer Science at The University of Texas at Austin
 
 Checkout my personal [website](https://cs.utexas.edu/~juice/) or see my [resume](techResumeJoyceLai.pdf)!
 
-Contact me at hexxated@gmail.com or joycelai@utexas.edu
+Contact me at hexxated@gmail.com.
 
